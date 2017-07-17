@@ -1,6 +1,6 @@
 # Trie
 
-This program implements a simple Trie in c++11 capable of making insertions and searches for educational purposes It includes a Jupyther with detailed explanation of the code.
+This program implements a simple Trie in c++11 capable of making insertions and searches for educational purposes It includes a Jupyter with detailed explanation of the code which you can check [here](Trie/Notebook/Trie.ipynb).
 
 ## Authors
 
